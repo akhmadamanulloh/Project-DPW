@@ -1,0 +1,44 @@
+body, h1, h2, p, a,td, span {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.wrap {
+    background-color: yellow;
+    width: auto;
+    color:black;
+    margin: 20px auto;
+    padding:15px;
+}
+.icon {
+    padding:5px;
+    text-align: center;
+    text-align: left;
+}
+span {
+    color: maroon;
+}
+img {
+    border-radius: 50%;
+    width: 600px;
+    height: 600px;
+}
+.box .left{
+    width:auto;
+    height:650px;
+    background-color:greenyellow;
+}
+.box .center{
+    width:auto;
+    height:650px;
+    background-color:greenyellow;
+}
+.box .right{
+    width:auto;
+    height:600px;
+    background-color:greenyellow;
+}
+.box .biodata{
+    width:auto;
+    height:auto;
+    background-color: burlywood;
+}
